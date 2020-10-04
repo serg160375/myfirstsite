@@ -1,5 +1,0 @@
-lato-bold (700)
-lato-regular (400 normal)
-lato-italic
-lato-light (300)
-
